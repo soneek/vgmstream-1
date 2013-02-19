@@ -375,6 +375,16 @@ static struct {
      * Lucky Star - Net Idol Meister (2009)(Kadokawa Shoten)[PSP]
      * confirmed unique with guessadx */
     {0x4d82,0x5243,0x685},
+
+    /*
+     * Ishin Renka: Ryouma Gaiden (2010-11-25)(-)(D3 Publisher)[PSP]
+     */
+    {0x54d1,0x526d,0x5e8b},
+
+    /*
+     * Lucky Star - Ryouou Gakuen Outousai Portable (2010-12-22)(-)(Kadokawa Shoten)[PSP]
+     */
+    {0x4d06,0x663b,0x7d09},
 };
 
 /* type 9 keys */
