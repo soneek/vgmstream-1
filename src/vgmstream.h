@@ -538,6 +538,7 @@ typedef enum {
 	meta_PS2_HSF,			// Lowrider (PS2)
 	meta_PS3_IVAG,			// Interleaved VAG files (PS3)
    meta_PS2_2PFS,			// Mahoromatic: Moetto - KiraKira Maid-San (PS2)
+   meta_PS2_VBK,			// Disney's Stitch - Experiment 626
 } meta_t;
 
 typedef struct {
