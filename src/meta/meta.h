@@ -620,4 +620,6 @@ VGMSTREAM * init_vgmstream_ps2_vbk(STREAMFILE* streamFile);
 
 VGMSTREAM * init_vgmstream_otm(STREAMFILE* streamFile);
 
+VGMSTREAM * init_vgmstream_bcstm(STREAMFILE* streamFile);
+
 #endif
