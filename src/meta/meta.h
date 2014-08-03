@@ -624,4 +624,6 @@ VGMSTREAM * init_vgmstream_otm(STREAMFILE* streamFile);
 
 VGMSTREAM * init_vgmstream_bcstm(STREAMFILE* streamFile);
 
+VGMSTREAM * init_vgmstream_bfwav(STREAMFILE* streamFile);
+
 #endif
